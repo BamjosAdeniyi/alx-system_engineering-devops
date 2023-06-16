@@ -1,5 +1,5 @@
 # alx-0x00-shell_basics
-##General Learning Objectives
+## General Learning Objectives
 * What does RTFM mean?
 * What is a Shebang
 * What is the shell
